@@ -1,6 +1,4 @@
-//James Mansoor
-//CSCI 3250
-//Programming Assignment 3
+
 #pragma once
 #include <stdexcept>
 
